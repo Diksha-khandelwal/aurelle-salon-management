@@ -1,0 +1,17 @@
+{
+  "short_name": "AURELLE",
+  "name": "AURELLE Unisex Salon & Studio",
+  "description": "The Art of Looking Your Best — Navrangpura, Ahmedabad",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FBF9F5",
+  "theme_color": "#162E25",
+  "display": "standalone",
+  "orientation": "portrait"
+}
