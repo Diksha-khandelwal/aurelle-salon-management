@@ -1,6 +1,12 @@
 # AURELLE — Unisex Salon & Studio
 ### The Art of Looking Your Best • Navrangpura, Ahmedabad, Gujarat (380009)
 
+**Live Demo:** https://salon-queue-dikshac.vercel.app/
+
+**GitHub Repository:** https://github.com/Diksha-khandelwal/aurelle-salon-management
+
+**Hosted on:** Verce
+
 A distinctive, luxury unisex salon and real-time chair queue management web application. Built with **React 18 + Vite + TypeScript + Tailwind CSS + Zustand**, featuring full **English & Gujarati (ગુજરાતી)** bilingual localization, cross-device real-time sync (< 3s latency), animated scissors route transitions, and smart FIFO queue dispatch.
 
 ---
